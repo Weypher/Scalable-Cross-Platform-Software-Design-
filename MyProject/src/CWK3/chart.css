@@ -1,0 +1,16 @@
+.chart-plot-background {
+-fx-background-color: transparent;
+}
+.default-color0.chart-series-line {
+-fx-stroke: red;
+} 
+.default-color0.chart-line-symbol { 
+    -fx-background-color: red, white;
+}
+.default-color0.chart-bar {
+    -fx-bar-fill : blue;
+}
+
+
+
+
